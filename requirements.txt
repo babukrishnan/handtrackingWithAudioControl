@@ -1,2 +1,3 @@
 Flask
 Gunicorn
+set FLASK_APP=market.py
